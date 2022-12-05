@@ -1,0 +1,1 @@
+the resources/references folder is a great place for keeping files such as adapter sequences, primer sequences, plasmid maps, etc. 

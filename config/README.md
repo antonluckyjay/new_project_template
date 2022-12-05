@@ -1,0 +1,1 @@
+the config directory contains any config files that detail project specific variables that are needed by snakemake workflows, HPC resources, etc. Examples of this are a config.yaml used by a snakemake workflow. 
