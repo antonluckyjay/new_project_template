@@ -39,5 +39,18 @@ vignettes/*.pdf
 .Renviron
 
 # Project specific
-# raw_data/
+data
+anvio-8.*
+blast-log.*
+diamond-log*
+databases/
+envs/
+conda_envs/
+results/
+refseq/
+raw_data/
+.snakemake/
+scripts/
+rules/
+logs/
 # resources/

@@ -1,8 +1,0 @@
-name: my_env
-channels:
-  - bioconda
-  - conda-forge
-  - defaults
-dependencies:
-  - software1>=0.0.0
-  - software2=0.0.0
